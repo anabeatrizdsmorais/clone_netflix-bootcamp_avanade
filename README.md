@@ -13,5 +13,5 @@ https://www.linkedin.com/in/anabeatrizdsm/
 <h3>📧 Email:</h3>
 anabeatrizdsmorais@gmail.com
 
-<h3>Meu perfil na DIO - Digital Innovation One: </h3>
+<h3>🔗 Meu perfil na DIO - Digital Innovation One: </h3>
 https://web.digitalinnovation.one/users/abeatriz0802?tab=achievements
